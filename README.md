@@ -30,6 +30,7 @@ The data used in this study comes from the [World Bank's Global Database of Infl
 
 # Repository Content
 - In the datasets folder, it contains five (5) csv files containing CPI data from the Philippines and four (4) other Southeast Asian countries. This was created for the Exploratory Data Analysis (EDA) portion.
+- In the datasets folder, it contains one (1) xlsx file which is the raw dataset downloaded from the World Bank's database. 
 - In the notebooks folder, it contains one jupyter notebook that contains everything from EDA to Machine Learning.
 - In the documents folder, it contains the written report for this project, complete with an in-depth analysis of the results and suggestions. 
 
